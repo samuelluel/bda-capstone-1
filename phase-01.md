@@ -25,9 +25,32 @@ cd bda-capstone-1
 
 7. Install the dependencies in the `requirements.txt`.
 
+## What is a fork?
+
+A fork is your own copy of someone else's GitHub repository. We use a fork so you can safely make changes, commit your work, and push to your own GitHub account without changing the instructor repository.
+
 >  [!TIP]
 >
 > You should work in your own fork because you will not have permission to push changes directly to the instructor repository.
+
+## Fork the repository
+
+Start from the instructor repository and click **Fork**.
+
+![Fork the repository on GitHub](assets/how-to-fork.png)
+*Figure 1: Click **Fork** on the instructor repository.*
+
+On the next screen, choose your GitHub account as the owner and click **Create fork**.
+
+![Create a new fork on GitHub](assets/create-fork.png)
+*Figure 2: Create the fork under your own GitHub account.*
+
+## Clone your fork
+
+After GitHub creates your fork, copy the HTTPS clone URL from your own repository.
+
+![Clone your forked repository](assets/clone-your-repo.png)
+*Figure 3: Copy the clone URL from your fork, not the instructor repository.*
 
 ## Create a virtual environment
 

@@ -58,7 +58,10 @@ bda-capstone-1/
 ├── assets/
 │   ├── add-collaborator-github.png
 │   ├── assign-issue.png
-│   └── create-issue.png
+│   ├── clone-your-repo.png
+│   ├── create-fork.png
+│   ├── create-issue.png
+│   └── how-to-fork.png
 ├── data/
 │   └── video_urls.csv
 └── reports/
