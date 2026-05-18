@@ -48,9 +48,9 @@ If GitHub does not show the email address in the assignee search, search for the
 
 Use the screenshots below as a guide:
 
-![Create a GitHub issue](assets/create-issue.png)
+![Create a GitHub issue](../assets/create-issue.png)
 
-![Assign a GitHub issue](assets/assign-issue.png)
+![Assign a GitHub issue](../assets/assign-issue.png)
 
 ## Example issue title
 

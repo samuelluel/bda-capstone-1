@@ -20,16 +20,16 @@ By the end of the activity, students will have practiced:
 
 Work through the phases in order:
 
-1. [Phase 01: Preparation](phase-01.md)
-2. [Phase 02: Build MVP](phase-02.md)
-3. [Phase 03: Refactor to improve](phase-03.md)
-4. [Phase 04: Read the data](phase-04.md)
-5. [Phase 05: Download in serial](phase-05.md)
-6. [Phase 06: Parallelize and compare](phase-06.md)
-7. [Phase 07: Submit your work](phase-07.md)
-8. [Phase 08: Add video metadata](phase-08.md)
-9. [Phase 09: Make the downloader safer](phase-09.md)
-10. [Phase 10: Request feedback](phase-10.md)
+1. [Phase 01: Preparation](phases/phase-01.md)
+2. [Phase 02: Build MVP](phases/phase-02.md)
+3. [Phase 03: Refactor to improve](phases/phase-03.md)
+4. [Phase 04: Read the data](phases/phase-04.md)
+5. [Phase 05: Download in serial](phases/phase-05.md)
+6. [Phase 06: Parallelize and compare](phases/phase-06.md)
+7. [Phase 07: Submit your work](phases/phase-07.md)
+8. [Phase 08: Add video metadata](phases/phase-08.md)
+9. [Phase 09: Make the downloader safer](phases/phase-09.md)
+10. [Phase 10: Request feedback](phases/phase-10.md)
 
 ## Classroom rules
 
@@ -44,16 +44,17 @@ Work through the phases in order:
 ```text
 bda-capstone-1/
 ├── README.md
-├── phase-01.md
-├── phase-02.md
-├── phase-03.md
-├── phase-04.md
-├── phase-05.md
-├── phase-06.md
-├── phase-07.md
-├── phase-08.md
-├── phase-09.md
-├── phase-10.md
+├── phases/
+│   ├── phase-01.md
+│   ├── phase-02.md
+│   ├── phase-03.md
+│   ├── phase-04.md
+│   ├── phase-05.md
+│   ├── phase-06.md
+│   ├── phase-07.md
+│   ├── phase-08.md
+│   ├── phase-09.md
+│   └── phase-10.md
 ├── requirements.txt
 ├── assets/
 │   ├── add-collaborator-github.png
